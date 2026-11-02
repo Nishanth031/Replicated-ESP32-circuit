@@ -1,0 +1,6 @@
+# REVIVE-TERY Circuit Studio. The requirements.txt one folder up belongs to the Delhi pipeline.
+dash==4.5.0
+dash-cytoscape==1.0.0
+plotly==7.1.0
+duckdb==2.0.0
+pyserial==3.5
